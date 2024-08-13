@@ -1,0 +1,17 @@
+{
+    "qaMainPageUrl": "https://cloud.google.com/", 
+    "calculatorSearch": "Google Cloud Platform Pricing Calculator",
+    "calculatorTitle": "Google Cloud Pricing Calculator",
+    "numberOfInstances": "4",
+    "expectedNumberOfInstances": "4",
+    "operatingSystem": "Free: Debian, CentOS, CoreOS, Ubuntu or BYOL (Bring Your Own License)",
+    "provisioningModel": "Regular",
+    "machineFamily": "General purpose",
+    "series": "N1",
+    "machineType": "n1-standard-8 (vCPUs: 8, RAM: 30GB)",
+    "gpuType": "NVIDIA Tesla V100",
+    "gpusNumber": "1",
+    "localSSD": "2x375 GB",
+    "datacenterLocation": "Frankfurt (europe-west3)",
+    "committedUsage": "1 Year"
+  }
